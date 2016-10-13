@@ -4,6 +4,7 @@ public class AccountTriggerHandler {
         
         for (Account acc: LnewAcc) {
             
+            //New Comment
             acc.Name = 'Copado Test';
         }
     }
