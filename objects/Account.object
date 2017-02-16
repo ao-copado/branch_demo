@@ -119,6 +119,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Alm_Brand_Mock_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Alm Brand Mock Field</label>
+        <length>1</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
